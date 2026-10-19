@@ -19,11 +19,11 @@ Today I'm pursuing a **Master's in Artificial Intelligence**, exploring how AI c
 
 ### 🛠️ Tech stack
 
-**Automation:** Selenium · Playwright · Appium · UFT/QTP · TestIM · Postman
-**Languages:** Java · TypeScript · C# · SQL · VB Script
-**Frameworks:** TestNG · JUnit · Page Object Model · Data-Driven
-**Cloud & devices:** BrowserStack · Perfecto Mobile · SauceLabs · BitBar
-**Delivery:** Git · CI/CD · Jira · Agile
+- **Automation:** Selenium · Playwright · Appium · UFT/QTP · TestIM · Postman
+- **Languages:** Java · TypeScript · C# · SQL · VB Script
+- **Frameworks:** TestNG · JUnit · Page Object Model · Data-Driven
+- **Cloud & devices:** BrowserStack · Perfecto Mobile · SauceLabs · BitBar
+- **Delivery:** Git · CI/CD · Jira · Agile
 
 ### 📌 Featured project
 
