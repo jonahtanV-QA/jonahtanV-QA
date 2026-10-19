@@ -25,9 +25,10 @@ Today I'm pursuing a **Master's in Artificial Intelligence**, exploring how AI c
 - **Cloud & devices:** BrowserStack · Perfecto Mobile · SauceLabs · BitBar
 - **Delivery:** Git · CI/CD · Jira · Agile
 
-### 📌 Featured project
+### 📌 Featured projects
 
-**[playwright-lab](https://github.com/jonahtanV-QA/playwright-lab)**: End-to-end framework built with Playwright + TypeScript using the Page Object Model. It covers login, cart and checkout flows with cross-browser runs on Chromium and Firefox.
+- **[playwright-lab](https://github.com/jonahtanV-QA/playwright-lab)**: End-to-end framework built with Playwright + TypeScript using the Page Object Model. It covers login, cart and checkout flows with cross-browser runs on Chromium and Firefox.
+- **[automl-employee-promotion](https://github.com/jonahtanV-QA/automl-employee-promotion)**: Benchmark of H2O AutoML vs. PyCaret for predicting employee promotions on an imbalanced dataset. H2O's Stacked Ensemble reached 0.82 AUC, with an honest analysis of why accuracy misleads under class imbalance.
 
 ### 🎓 Certifications
 
